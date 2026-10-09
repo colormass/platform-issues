@@ -11,5 +11,6 @@ Welcome to the official issue tracker for the colormass platform. While our core
 Because this repository does not contain the actual source code, we cannot accept Pull Requests. Any PRs submitted here will be closed. Please submit all code suggestions or fixes via the Issues tab.
 
 ### Important Links
-* **Download / Main Page:** https://library.colormass.com
+* **Main Platform Page:** https://app.colormass.com
+* **Public Library Page:** https://library.colormass.com
 * **Support the Project:** https://www.patreon.com/c/colormass
